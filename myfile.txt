@@ -1,2 +1,3 @@
 "Git is my favorite tool in Linux"
 "For 1 commit"
+"For 2 commit"

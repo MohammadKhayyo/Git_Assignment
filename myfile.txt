@@ -1,1 +1,1 @@
-text of how much you love git
+"Git is my favorite tool in Linux"
